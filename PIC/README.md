@@ -1,1 +1,1 @@
-## Codde in MPLAB
+## Code in MPLAB
