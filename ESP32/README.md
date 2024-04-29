@@ -1,7 +1,9 @@
 # Read Me First!
 
 1 - Download esp32_setup.py file.
+
 //
+
 2 - Download boot.py file.
 3 - Change the code to import esp32_setup, and run the code.
 4 - Change it back to import async_mqtt_uart and run the code.
