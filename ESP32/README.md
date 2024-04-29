@@ -1,4 +1,4 @@
-# Read Me First!
+# Read Me Before You Go!
 
 1 - Download esp32_setup.py file.
 
