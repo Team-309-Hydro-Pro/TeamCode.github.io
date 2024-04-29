@@ -1,3 +1,5 @@
+// Team 309 - EGR 314 Spring 2024
+
 #include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/eusart2.h"
 #include "mcc_generated_files/i2c1_master.h"
